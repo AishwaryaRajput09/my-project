@@ -1,0 +1,4 @@
+configurationset:
+  - configuration:
+      name: curl_import_config
+      authentication_2bd6eea340: tarascon::stepzen.io+1000::f028f604320bc9da49abb444facdd6146ccde8696b8a63b2a465895809863819
